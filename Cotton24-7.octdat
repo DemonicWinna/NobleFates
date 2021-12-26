@@ -1,0 +1,14 @@
+//My First Mod, feel free to join my discord at discord.gg/antjpcNNb4 - I will add NF channels in the coming days like my other channels.
+{
+			type FoliageSeason
+			
+			growRate = 1
+			
+			seasons =
+			[
+				Spring
+				Summer
+				Fall
+				Winter
+			]
+		}
